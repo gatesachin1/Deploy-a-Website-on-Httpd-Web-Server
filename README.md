@@ -23,25 +23,7 @@
 6. open browser and verify default web page
 http://192.168.1.5 --> output : it works ( Default httpd page )
 ---------------------------------------------------------------------------------
-7. Create custom webpage
-#cd   /var/www/html/
-#vim   index.html
-<html>
-        <head>
-                <title>Pune</title>
-        </head>
-        <body bgcolor=yellow>
-                <h1>Welcome to Apache httpd web server</h1>
-        </body>
-</html>
-:wq
----------------------------------------------------------------------------------
-8. open browser and verify custom web page
-http://192.168.1.5
----------------------------------------------------------------------------------
-9. remove custom web page and host website using free website template ( https://www.free-css.com/free-css-templates)
-#rm  -rvf  /var/www/html/*
-#cd
+9. host website using free website template ( https://www.free-css.com/free-css-templates)
 #wget  https://www.free-css.com/assets/files/free-css-templates/download/page295/yoga.zip
 #ls
 #unzip  yoga.zip
