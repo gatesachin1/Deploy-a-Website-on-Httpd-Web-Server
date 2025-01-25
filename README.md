@@ -1,4 +1,4 @@
-**Deploying a Static Website on AWS EC2 with Apache HTTPD**
+                ** **Deploying a Static Website on AWS EC2 with Apache HTTPD********
 
 **Summary:**
 In this project, I have hosted a static website on an AWS EC2 instance using Apache HTTPD. launch an EC2 instance, configure Apache, and deploy a custom webpage, then replace it with your website code for public access.
