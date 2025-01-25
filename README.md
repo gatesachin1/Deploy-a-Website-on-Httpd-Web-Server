@@ -22,5 +22,5 @@ http://192.168.1.5 --> output : it works ( Default httpd page )
 #cp -rvf yoga/* /var/www/html/
 10. open browser and verify
 http://192.168.1.5 ( EC2-Instance Public IP )
-Final output :
+11. Final output :
 ![image](https://github.com/user-attachments/assets/8ee63132-09f6-4017-8cf7-2d3ecb640bd3)
